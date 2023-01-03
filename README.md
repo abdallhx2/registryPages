@@ -1,7 +1,8 @@
-# lab-11
+# registryPages
+Build register Page that incloud Sign in & Sign up and connected it with fireBase
+- u can change language between AR & EN 
+- almost desgin uses code
+- the app can reigster and login for new user
+***u can change Email in home page and will see tha date for ur rigster and id*** 
 
-## Build a Sign-in page that contains Email, Password. After Signing in you’ll show the Home page containing `ID`, `Email`, and `Creation Day`. The user can update his/her email then if he/she signs out they should be able to sign in with the updated email.
 
-### Note accepted submission MUST contain app demo record!
-
-Note: Name your app Your name-lab11
